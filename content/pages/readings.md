@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 4e1c5662-ea77-c513-6dbe-4256147f91eb
 ---
@@ -137,10 +140,10 @@ Available at: [http://www.hoover.org/publications/books/8325](http://www.hoover.
 Class 21 - Environmental Regulation 3 – Regulating the Global Commons.
 ----------------------------------------------------------------------
 
-Jacoby, H. D., R. S. Eckaus, A. D. Ellerman, R. G. Prinn, D. M. Reiner, and Z. Yang. _CO2 Emissions Limits: Economic Adjustments and the Distribution of Burdens._ Report No.9, MIT Joint Program on the Science and Policy of Global Change. 1996.  
+Jacoby, H. D., R. S. Eckaus, A. D. Ellerman, R. G. Prinn, D. M. Reiner, and Z. Yang. _CO{{< sub "2" >}} Emissions Limits: Economic Adjustments and the Distribution of Burdens._ Report No.9, MIT Joint Program on the Science and Policy of Global Change. 1996.  
 Available at: [http://web.mit.edu/globalchange/www/rpt9.html](http://web.mit.edu/globalchange/www/rpt9.html).
 
-Reilly, J. M., H. D. Jacoby, and R. G. Prinn. _Multi-Gas Contributors to Global_ _Climate Change: Climate Impacts and Mitigation Costs of Non-CO2 Gases._ Report for Pew Center on Climate Change. Arlington, V.A., 2003.
+Reilly, J. M., H. D. Jacoby, and R. G. Prinn. _Multi-Gas Contributors to Global_ _Climate Change: Climate Impacts and Mitigation Costs of Non-CO{{< sub "2" >}} Gases._ Report for Pew Center on Climate Change. Arlington, V.A., 2003.
 
 Tol, R. S. J. "The Marginal Costs of Greenhouse Emissions." _Energy Journal_ 20, 1 (1999): 61-81.
 

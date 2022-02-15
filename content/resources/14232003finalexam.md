@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Final Examination
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/14-23-government-regulation-of-industry-spring-2003/0461d730b4b111570a58df361b3d2394_14232003finalexam.pdf
+file: /media/courses/14-23-government-regulation-of-industry-spring-2003/0461d730b4b111570a58df361b3d2394_14232003finalexam.pdf
 file_type: application/pdf
+learning_resource_types:
+- Exams
+ocw_type: OCWFile
+parent_title: Exams
+parent_type: CourseSection
 resourcetype: Document
 title: 14232003finalexam.pdf
 uid: 0461d730-b4b1-1157-0a58-df361b3d2394
