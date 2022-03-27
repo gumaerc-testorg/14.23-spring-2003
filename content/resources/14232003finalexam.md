@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: b93e5ad1-5992-6175-70d0-0125234f23c0
 resourcetype: Document
 title: 14232003finalexam.pdf
 uid: 0461d730-b4b1-1157-0a58-df361b3d2394

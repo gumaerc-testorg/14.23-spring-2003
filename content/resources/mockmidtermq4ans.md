@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: b93e5ad1-5992-6175-70d0-0125234f23c0
 resourcetype: Document
 title: mockmidtermq4ans.pdf
 uid: 44a8f394-0c15-4c35-db5a-ac85e0d8d6c8

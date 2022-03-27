@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: b93e5ad1-5992-6175-70d0-0125234f23c0
 resourcetype: Document
 title: midtermanswers.pdf
 uid: fc54dc28-7868-8644-b0e7-74872b1a0aa8

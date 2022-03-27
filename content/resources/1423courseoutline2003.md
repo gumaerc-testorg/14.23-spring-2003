@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Syllabus
 parent_type: CourseSection
+parent_uid: 812b8611-71e8-e019-0a72-bd4a39aa5d85
 resourcetype: Document
 title: 1423courseoutline2003.pdf
 uid: d9a61fbf-fbfd-adb5-8a4a-8650ea2a8aa3

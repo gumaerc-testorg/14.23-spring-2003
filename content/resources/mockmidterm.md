@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: b93e5ad1-5992-6175-70d0-0125234f23c0
 resourcetype: Document
 title: mockmidterm.pdf
 uid: f86850a5-3159-7d51-116c-195f06b4c562
