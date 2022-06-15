@@ -1,12 +1,13 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
 uid: 812b8611-71e8-e019-0a72-bd4a39aa5d85
 ---
 
-Syllabus ([PDF]({{< baseurl >}}/resources/1423courseoutline2003))
+Syllabus ({{% resource_link d9a61fbf-fbfd-adb5-8a4a-8650ea2a8aa3 "PDF" %}})
 
 Course Meeting Times
 --------------------
