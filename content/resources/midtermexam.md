@@ -5,6 +5,7 @@ file: /courses/14-23-government-regulation-of-industry-spring-2003/e68afd6b8a5f9
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: midtermexam.pdf
 uid: e68afd6b-8a5f-9ea3-e820-41b1284143a0
 ---
 Midterm Examination
-

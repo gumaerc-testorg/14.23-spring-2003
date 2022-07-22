@@ -5,6 +5,7 @@ file: /courses/14-23-government-regulation-of-industry-spring-2003/27f285a721e18
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: ps1.pdf
 uid: 27f285a7-21e1-8497-612d-c7acae382cbd
 ---
 Homework Set #1
-

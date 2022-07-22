@@ -5,6 +5,7 @@ file: /courses/14-23-government-regulation-of-industry-spring-2003/392a76b59c184
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: ps3.pdf
 uid: 392a76b5-9c18-498b-8e90-aa0cef5d1bf0
 ---
 Problem Set 3
-
