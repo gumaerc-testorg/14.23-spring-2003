@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: Problem Set 3
-file: /courses/14-23-government-regulation-of-industry-spring-2003/392a76b59c18498b8e90aa0cef5d1bf0_ps3.pdf
+file: /ol-ocw-studio-app/courses/14-23-government-regulation-of-industry-spring-2003/392a76b59c18498b8e90aa0cef5d1bf0_ps3.pdf
+file_size: 88670
 file_type: application/pdf
 learning_resource_types:
 - Assignments

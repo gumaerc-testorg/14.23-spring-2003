@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: Midterm Examination
-file: /courses/14-23-government-regulation-of-industry-spring-2003/e68afd6b8a5f9ea3e82041b1284143a0_midtermexam.pdf
+file: /ol-ocw-studio-app/courses/14-23-government-regulation-of-industry-spring-2003/e68afd6b8a5f9ea3e82041b1284143a0_midtermexam.pdf
+file_size: 114939
 file_type: application/pdf
 learning_resource_types:
 - Exams

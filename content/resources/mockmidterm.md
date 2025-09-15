@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: Mock Midterm Examination 2003
-file: /courses/14-23-government-regulation-of-industry-spring-2003/f86850a531597d51116c195f06b4c562_mockmidterm.pdf
+file: /ol-ocw-studio-app/courses/14-23-government-regulation-of-industry-spring-2003/f86850a531597d51116c195f06b4c562_mockmidterm.pdf
+file_size: 267953
 file_type: application/pdf
 learning_resource_types:
 - Exams
