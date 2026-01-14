@@ -44,9 +44,10 @@
     "website": "14-23-government-regulation-of-industry-spring-2003"
   },
   "learning_resource_types": [
-    "Problem Sets with Solutions",
     "Exams with Solutions",
-    "Lecture Notes"
+    "Lecture Notes",
+    "Problem Sets",
+    "Problem Set Solutions"
   ],
   "site_uid": "8bfcb8e2-d63f-4e81-8004-ce63efc31e64",
   "site_short_id": "14.23-spring-2003",
